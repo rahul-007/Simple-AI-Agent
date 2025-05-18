@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-google-genai
+google-generativeai
+tqdm
+requests
+duckduckgo-search
+python-dotenv
+wikipedia
+arxiv
+pydantic
